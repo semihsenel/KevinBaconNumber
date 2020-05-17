@@ -7,7 +7,7 @@ The small world phenomenon (also known as the small world effect) is the hypothe
 According to phenomenon above Kevin Bacon Number is distance from an actor to Kevin Bacon. Calculations show that kevin bacon number is 2 or 3 for variety of actors.
 
 ## What Did I Use ?
-- I used C language because it is fast. Also I choosed a low level language to challange myself.
+- I used C language because it is fast. Also I choosed a low level language to challenge myself.
 - I used Graph structure because it is necessary to use to find the shortest path between two actors.
 
 <img src="img/kbn.png" height = "400" width = "600">
