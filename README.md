@@ -11,4 +11,4 @@ According to phenomenon above Kevin Bacon Number is distance from an actor to Ke
 - I used Graph structure because it is necessary to use to find the shortest path between two actors.
 
 <img src="img/kbn.png" height = "400" width = "600">
-**In the example above Kevin Bacon Number of Sean Connery is 2.**
+__In the example above Kevin Bacon Number of Sean Connery is 2.__
