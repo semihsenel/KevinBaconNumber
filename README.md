@@ -13,3 +13,11 @@ According to phenomenon above Kevin Bacon Number is distance from an actor to Ke
 <img src="img/kbn.png" height = "400" width = "600">
 
 **In the example above Kevin Bacon Number of Sean Connery is 2.**
+
+## How Do I Find the Number ?
+- Read file and create a graph that consist of actors and movies
+- Each node is a movie or an actor
+- Connect actors with the movies that they are part of it
+- Find the shortest path from Kevin Bacon to an actor using Breadth First Search Algorithm.
+
+## Screenshots
